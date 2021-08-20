@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'TT Bluescreens';
+    src: url('TTBluescreens-Bold.woff2') format('woff2'),
+        url('TTBluescreens-Bold.woff') format('woff'),
+        url('TTBluescreens-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
